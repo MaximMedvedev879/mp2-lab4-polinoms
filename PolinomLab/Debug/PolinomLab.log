@@ -1,0 +1,26 @@
+﻿  PolinomLab.cpp
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\Polynom.h(142,47): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\List.h(166,15): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\List.h(165): message : во время компиляции функции-члена класс шаблон "void List<Monom>::InsertToTail(TData)"
+          with
+          [
+              TData=Monom
+          ]
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\Polynom.h(114): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Monom>::InsertToTail(TData)"
+          with
+          [
+              TData=Monom
+          ]
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\Polynom.h(25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Monom>"
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\List.h(129,15): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\List.h(128): message : во время компиляции функции-члена класс шаблон "void List<Monom>::Delete(Node<TData> *)"
+          with
+          [
+              TData=Monom
+          ]
+C:\Users\мвидео\source\repos\PolinomLab\PolinomLab\Polynom.h(237): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<Monom>::Delete(Node<TData> *)"
+          with
+          [
+              TData=Monom
+          ]
+  PolinomLab.vcxproj -> C:\Users\мвидео\source\repos\PolinomLab\Debug\PolinomLab.exe
